@@ -1,0 +1,11 @@
+[
+    {
+        "id": "edit",
+        "children":
+        [
+            {"id": "wrap"},
+            { "command": "filter" },
+            { "command": "filter_using_regular_expression" }
+        ]
+    }
+]
