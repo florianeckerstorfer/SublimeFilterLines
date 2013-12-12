@@ -14,3 +14,7 @@ Usage
 * **Filter by regular expression**: `Ctrl+Shift+Option+f`
 
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/florianeckerstorfer/sublimefilterlines/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
